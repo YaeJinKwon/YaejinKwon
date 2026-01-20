@@ -6,16 +6,19 @@
 
 ## 연구하는 개발자 🧪💻
 저는 Java/Spring 기반 백엔드 개발을 하고 있습니다.  
-또한 Software Engineering 분야에서 **ML/AI 시스템의 Regression Testing(회귀 테스트)**를 연구하며, 안정적인 품질 검증 방법을 탐구하고 있습니다.
+또한 Software Engineering 분야에서 ML/AI 시스템의 **Regression Testing(회귀 테스트)**을 연구하며, 안정적인 품질 검증 방법을 탐구하고 있습니다.
 
 <br/>
 
 <div align="center">
-  <a href="https://yaejinkwon.github.io/"><img src="https://img.shields.io/badge/Blog-yaejinkwon.github.io-555?style=flat&logo=githubpages&logoColor=white" /></a>
-  <a href="mailto:kwonreally@naver.com"><img src="https://img.shields.io/badge/Email-kwonreally%40naver.com-555?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://yaejinkwon.github.io/" title="Blog">
+    <img src="https://cdn.simpleicons.org/githubpages" height="28" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:kwonreally@naver.com" title="Email">
+    <img src="https://cdn.simpleicons.org/gmail" height="28" />
+  </a>
 </div>
-
-
 ---
 
 ## 🛠️ Tech Stacks
