@@ -12,13 +12,14 @@
 
 <div align="center">
   <a href="https://yaejinkwon.github.io/" title="Blog">
-    <img src="https://cdn.simpleicons.org/githubpages" height="28" />
+    <img src="https://cdn.simpleicons.org/githubpages/555" height="28" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:kwonreally@naver.com" title="Email">
-    <img src="https://cdn.simpleicons.org/gmail" height="28" />
+    <img src="https://cdn.simpleicons.org/gmail/555" height="28" />
   </a>
 </div>
+
 ---
 
 ## 🛠️ Tech Stacks
