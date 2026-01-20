@@ -58,11 +58,13 @@
   </a>
 </div>
 
-## 🔗 Links
-- 📝 Blog: [yaejinkwon.github.io](https://yaejinkwon.github.io/)
-- 📩 Email: [kwonreally@naver.com](mailto:kwonreally@naver.com)
+<div align="center">
+  <a href="https://yaejinkwon.github.io/">
+    <img src="https://img.shields.io/badge/Blog-yaejinkwon.github.io-555?style=flat&logo=githubpages&logoColor=white" />
+  </a>
+  <a href="mailto:kwonreally@naver.com">
+    <img src="https://img.shields.io/badge/Email-kwonreally%40naver.com-555?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
-
-    
-    
 
