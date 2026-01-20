@@ -1,8 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hi%20I'm%20Grace%20%F0%9F%91%8B&fontColor=00000&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hi%20I'm%20Grace%20%F0%9F%91%8B&fontColor=ffffff&fontSize=50&animation=fadeIn" />
 </div>
 
 <br/>
+
 
 ## 연구하는 개발자 🧪💻
 저는 Java/Spring 기반 백엔드 개발을 하고 있습니다.  
