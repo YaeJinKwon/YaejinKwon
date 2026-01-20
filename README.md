@@ -58,6 +58,9 @@
   </a>
 </div>
 
+## 🔗 Links
+- 📝 Blog: [yaejinkwon.github.io](https://yaejinkwon.github.io/)
+- 📩 Email: [kwonreally@naver.com](mailto:kwonreally@naver.com)
 
 
     
