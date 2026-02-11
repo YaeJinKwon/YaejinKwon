@@ -45,13 +45,6 @@
 
 ---
 
-## 🏅 Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YaejinKwon&show_icons=true&hide_border=true&bg_color=60,d4b5b5,8e7ab3&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
-</div>
-
----
-
 ## 🏅 Baekjoon Stats
 <div align="center">
   <a href="https://solved.ac/spacedog21">
