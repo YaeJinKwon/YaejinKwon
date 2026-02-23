@@ -6,9 +6,6 @@
 
 ## 연구하는 개발자 🧪💻
 저는 Java/Spring 기반 백엔드 개발을 하고 있습니다.  
-또한 Software Engineering 분야에서 ML/AI 시스템의 Regression Testing을 연구하며, 안정적인 품질 검증 방법을 탐구하고 있습니다.
-
-<br/>
 
 ---
 
